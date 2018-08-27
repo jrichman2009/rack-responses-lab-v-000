@@ -8,6 +8,7 @@ class Application
     else
       puts "Good Afternoon!"
       resp.write
+    end
 
 
     resp.finish
